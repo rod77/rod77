@@ -16,13 +16,15 @@
 <img height="20" alt="React-Native" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">
 </p>
 <h5>Database:</h5>
+<p>
 <code><img height="20" width="20" alt="SQL Server" src="https://proyectoa.com/wp-content/uploads/2008/10/sql-server.png"></code>
 <code><img height="20" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-
+</p>
+<p>
 <code><img height="20" width="20" alt="FireBase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-
+</p>
 
 <!--
 **rod77/rod77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
