@@ -19,7 +19,6 @@
 <p>
 <code><img height="20" width="20" alt="SQL Server" src="https://proyectoa.com/wp-content/uploads/2008/10/sql-server.png"></code>
 <code><img height="20" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 </p>
 <p>
 <code><img height="20" width="20" alt="FireBase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
