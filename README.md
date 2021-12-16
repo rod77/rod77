@@ -25,9 +25,10 @@
 <code><img height="20" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 </p>
 
-![rod77's GitHub stats](https://github-readme-stats.vercel.app/api?username=rod77&hide=contribs,prs&theme=vue&show_icons=true&count_private=true) 
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rod77&layout=compact&theme=vue)](https://github.com/rod77/github-readme-stats)
+<br>
+![rod77's GitHub stats](https://github-readme-stats.vercel.app/api?username=rod77&hide=contribs,prs&theme=vue&show_icons=true&count_private=true) 
+
 
 
 
