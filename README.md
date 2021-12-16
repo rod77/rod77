@@ -8,7 +8,7 @@
 <p>
 <img height="20" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img height="20" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<code><img height="20" alt="SASS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<img height="20" alt="SASS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
 <img height="20" alt="JS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="20" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 </p>
@@ -24,6 +24,12 @@
 <code><img height="20" width="20" alt="FireBase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 </p>
+
+![rod77's GitHub stats](https://github-readme-stats.vercel.app/api?username=rod77&hide=contribs,prs&theme=vue&show_icons=true&count_private=true) 
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rod77&layout=compact&theme=vue)](https://github.com/rod77/github-readme-stats)
+
+
 
 <!--
 **rod77/rod77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
