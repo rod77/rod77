@@ -1,48 +1,80 @@
-<h1 align="center">Hi People 👋, I'm Rod</h1>
-<h3 align="center">System Engineer</h3>
-<img width="100%" height="15px"  src="https://ugc.kn3.net/i/760x/http://getrigth.files.wordpress.com/2011/04/barra-separadora2.png">
+# Hi there 
+**I'm Rod.** 
 
-<h3>Skills:</h3>
+👨‍💻 System Engineer.
 
-<h5>Front End Web Developer:</h5>
+
+## My stack
+:computer: Web front-end development with **ReactJs** <br/>
+:gear: Back-end **NodeJs** <br/>
+:floppy_disk: Database: **MongoDB** <br/>
+
+**But** i'm open to other technologies
+
+## But also I develop using... 
+#### Front-End
 <p>
-<img height="20" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img height="20" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img height="20" alt="SASS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-<img height="20" alt="JS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="20" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  <img src="https://img.icons8.com/color/344/react-native.png" height="35px"/> 
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
+  &nbsp;  
 </p>
-<h5>Mobile App Developer:</h5>
-<img height="20" alt="React-Native" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">
-</p>
-<h5>Database:</h5>
+
+#### Back-End
 <p>
-<code><img height="20" width="20" alt="SQL Server" src="https://proyectoa.com/wp-content/uploads/2008/10/sql-server.png"></code>
-<code><img height="20" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="45px"/>
+  &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="45px" />  
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="45px" />  
 </p>
+
+#### Data Base
 <p>
-<code><img height="20" width="20" alt="FireBase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rod77&layout=compact&theme=vue)](https://github.com/rod77/github-readme-stats)
-<br>
-![rod77's GitHub stats](https://github-readme-stats.vercel.app/api?username=rod77&hide=contribs,prs&theme=vue&show_icons=true&count_private=true) 
-
-
-
-
+  <img height="35" alt="Mongo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+  &nbsp;  
+  <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" height="35px" />   
+  &nbsp;
+  <img src="https://img.icons8.com/color/452/firebase.png" height="35px" />   
+  
+<p/>
 <!--
-**rod77/rod77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## It's me... Rod! 
+<p>
+  <img src="https://img.icons8.com/color/48/000000/graduation-cap.png" height="35px"/> 
+  &nbsp;
+  <label>
+    I graduated in Development and Analyze's Systems by Nordeste Technology College
+  <label/>
+  <br />
+    
+  <img src="https://img.icons8.com/color/48/000000/open-book--v2.png" height="35px"/> 
+  &nbsp;
+  <label>
+    I love to study my stack and new technologies for improve and incrise my knowledge
+  <label/>
+  <br />
+    
+  <img src="https://github.com/WRCrys/devca-portfolio-ts/blob/main/src/pages/About/assets/toronto-raptors.png" height="35px"/> 
+  &nbsp;
+  <label>
+    I love so much basketball
+  <label/>
+  <br />
+    
+  <img src="https://img.icons8.com/color/48/000000/xbox--v1.png" height="35px"/> 
+  &nbsp;
+  <label>
+    Sometimes... I play video-games and I like it too. It's better when I have other player
+  <label/>
+  <br />
+<p/>
+    
+## If you want contact me...
+<a href="https://www.linkedin.com/in/crystyano-almeida-2a15a89a/"><img width="96" height="96" src="https://img.icons8.com/color/96/000000/linkedin.png"></a>
+<a href="mailto:winnerbyjesus@gmail.com"><img width="96" height="96" src="https://img.icons8.com/color/96/000000/gmail.png"></a>
+    
+## Finally <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/WRCrys/WRCrys/main/bear.webp">
+### I want to be the best person, developer and professional than I can be everyday.
 -->
+    
