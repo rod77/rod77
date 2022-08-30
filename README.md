@@ -1,7 +1,7 @@
 # Hi there 
 **I'm Rod.** 
 
-👨‍💻 System Engineer.
+👨‍💻 Computer Systems Engineer.
 
 
 ## My stack
